@@ -13,3 +13,4 @@
 # Once you have the list of files, you can use a loop (such as forEach) to iterate over the files, and for each file, you can construct the old and new file paths using the directory path and the file name. You can then use the fs.rename method to rename the file.
 
 # It's important to note that renaming files can be a potentially destructive operation, so it's a good idea to test your code on a small set of files before running it on a larger set of files. Additionally, you should ensure that the new file names you're generating are unique, so you don't accidentally overwrite existing files.
+# https://www.linkedin.com/feed/update/urn:li:activity:7057152294282235904/
